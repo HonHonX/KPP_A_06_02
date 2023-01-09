@@ -18,10 +18,10 @@ int main () {
   float f[100];
   double d[100];
   
-  printf("int     : %d Bytes\n", sizeof(i));
-  printf("long    : %d Bytes\n", sizeof(l));
-  printf("float   : %d Bytes\n", sizeof(f));
-  printf("double  : %d Bytes\n", sizeof(d));
+  printf("int     : %lu Bytes\n", sizeof(i));
+  printf("long    : %lu Bytes\n", sizeof(l));
+  printf("float   : %lu Bytes\n", sizeof(f));
+  printf("double  : %lu Bytes\n", sizeof(d));
 	
 	//Ende
 	printf("\n\n");
