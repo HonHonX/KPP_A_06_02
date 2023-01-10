@@ -12,7 +12,7 @@ int main () {
 	printf("\n *   ´´´´´´   *                ©S.Buch * ");
 	printf("\n *************************************** \n\n");
 	
-	//Deklarierung
+	//Arrays deklarieren
 	int i[100];
 	long l[100];
 	float f[100];
